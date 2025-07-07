@@ -1,0 +1,2 @@
+# Improving-Rice-Leaf-Disease-Identification-with-Object-Detection-and-Image-Enhancement
+Highly accurate rice leaf disease identification using lighter models can ensure food security globally and also less crop loss by maximizing the rate of disease identifica- tion in proper time. Our thesis focus is on the process where the quality of the image is enhanced and the diseased part is detected for predicting the disease in the output
